@@ -10,11 +10,14 @@ import java.util.zip.ZipEntry;
 import java.util.zip.ZipFile;
 
 public class Main {
+    private static String pathDirectory;
 
     public static void main(String[] args) {
 
+        pathChooser1 pathChooser1 = new pathChooser1();
+        pathDirectory = pathChooser1.obtenerPath1();
         /**Jar entrante */
-        try (ZipFile zipFile = new ZipFile("gson-2.7.jar")) {//facebook-messenger-1.0.0.jar
+        try (ZipFile zipFile = new ZipFile(pathDirectory)) {//facebook-messenger-1.0.0.jar
             /**String donde se almacena la */
             String allString = "";
             Enumeration<? extends ZipEntry> entries = zipFile.entries();

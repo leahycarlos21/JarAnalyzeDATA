@@ -2,556 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb94f28a-2f14-47dd-8688-910b62caf32f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_commons_lang.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_github_odavid_maven_plugins_unpacked_repository_maven_plugin_0_1_alpha_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_simpligility_org_apache_maven_plugin_testing_maven_plugin_testing_harness_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_maven_maven_plugin_api_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_maven_maven_profile_2_0_alpha_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_maven_maven_project_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_maven_maven_project_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_maven_maven_repository_metadata_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_eclipse_aether_aether_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_jsoup_jsoup_1_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/.github/pull_request_template.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/Jenkinsfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/NOTICE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/deploySite.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/doap_Maven.rdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/lifecycle-executor.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/plugin-manager.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/AbstractMavenLifecycleParticipant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/ArtifactFilterManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/ArtifactFilterManagerDelegate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/BuildAbort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/BuildFailureException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/DefaultArtifactFilterManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/DefaultMaven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/DefaultProjectDependenciesResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/DuplicateProjectException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/InternalErrorException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/Maven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/MavenExecutionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/MissingModuleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/ProjectBuildFailureException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/ProjectCycleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/ProjectDependenciesResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/ReactorReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/RepositoryUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/SessionScoped.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/DependencyResolutionRequiredException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/InvalidRepositoryException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/factory/ArtifactFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/factory/DefaultArtifactFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/handler/DefaultArtifactHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/handler/manager/ArtifactHandlerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/handler/manager/DefaultArtifactHandlerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/metadata/AbstractArtifactMetadata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/metadata/ArtifactMetadataRetrievalException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/metadata/ArtifactMetadataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/metadata/ResolutionGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/repository/DefaultRepositoryRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/repository/LegacyLocalRepositoryManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/repository/MavenArtifactRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/repository/RepositoryCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/repository/RepositoryRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/repository/layout/DefaultRepositoryLayout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/repository/metadata/AbstractRepositoryMetadata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/repository/metadata/ArtifactRepositoryMetadata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/repository/metadata/RepositoryMetadata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/repository/metadata/RepositoryMetadataDeploymentException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/repository/metadata/RepositoryMetadataInstallationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/repository/metadata/RepositoryMetadataManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/repository/metadata/RepositoryMetadataResolutionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/repository/metadata/io/DefaultMetadataReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/repository/metadata/io/MetadataParseException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/repository/metadata/io/MetadataReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/resolver/ArtifactResolutionRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/resolver/ArtifactResolutionResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/resolver/DefaultResolutionErrorHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/resolver/ResolutionErrorHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/resolver/ResolutionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/resolver/ResolutionNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/resolver/filter/AbstractScopeArtifactFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/resolver/filter/AndArtifactFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/resolver/filter/CumulativeScopeArtifactFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/resolver/filter/ExcludesArtifactFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/resolver/filter/ExclusionSetFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/resolver/filter/IncludesArtifactFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/artifact/resolver/filter/ScopeArtifactFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/bridge/MavenRepositorySystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/classrealm/ArtifactClassRealmConstituent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/classrealm/ClassRealmConstituent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/classrealm/ClassRealmManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/classrealm/ClassRealmManagerDelegate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/classrealm/ClassRealmRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/configuration/BasedirBeanConfigurationPathTranslator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/configuration/BeanConfigurationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/configuration/BeanConfigurationPathTranslator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/configuration/BeanConfigurationRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/configuration/BeanConfigurationValuePreprocessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/configuration/BeanConfigurator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/configuration/DefaultBeanConfigurationRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/configuration/internal/DefaultBeanConfigurator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/eventspy/AbstractEventSpy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/eventspy/EventSpy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/eventspy/internal/EventSpyDispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/eventspy/internal/EventSpyExecutionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/eventspy/internal/EventSpyRepositoryListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/exception/DefaultExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/exception/ExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/exception/ExceptionSummary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/AbstractExecutionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/BuildFailure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/BuildSuccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/BuildSummary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionRequestPopulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/ExecutionEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/ExecutionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/MavenExecutionRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/MavenExecutionRequestPopulationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/MavenExecutionRequestPopulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/MavenExecutionResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/MavenSession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/MojoExecutionEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/MojoExecutionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/ProjectDependencyGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/ProjectExecutionEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/ProjectExecutionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/ReactorManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/SettingsAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/scope/MojoExecutionScoped.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/scope/WeakMojoExecutionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/scope/internal/MojoExecutionScope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/scope/internal/MojoExecutionScopeCoreModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/execution/scope/internal/MojoExecutionScopeModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/extension/internal/CoreExports.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/extension/internal/CoreExportsProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/extension/internal/CoreExtensionEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/graph/DefaultGraphBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/graph/DefaultProjectDependencyGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/graph/FilteredProjectDependencyGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/graph/GraphBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/internal/aether/DefaultRepositorySystemSessionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/internal/aether/LoggingRepositoryListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/LifeCyclePluginAnalyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/Lifecycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/LifecycleExecutionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/LifecycleExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/LifecycleMappingDelegate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/LifecycleNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/LifecyclePhaseNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/MavenExecutionPlan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/MissingProjectException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/MojoExecutionConfigurator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/NoGoalSpecifiedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/BuildListCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/BuildThreadFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/CompoundProjectExecutionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/DefaultExecutionEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/DefaultExecutionEventCatapult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/DefaultLifecycleExecutionPlanCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/DefaultLifecycleMappingDelegate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/DefaultLifecyclePluginAnalyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/DefaultLifecycleTaskSegmentCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/DefaultMojoExecutionConfigurator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/DefaultProjectArtifactFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/DependencyContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/ExecutionEventCatapult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/ExecutionPlanItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/GoalTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/LifecycleDebugLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/LifecycleDependencyResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/LifecycleExecutionPlanCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/LifecycleModuleBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/LifecyclePluginResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/LifecycleStarter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/LifecycleTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/LifecycleTaskSegmentCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/MojoDescriptorCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/MojoExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/PhaseRecorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/ProjectArtifactFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/ProjectBuildList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/ProjectIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/ProjectSegment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/ReactorBuildStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/ReactorContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/TaskSegment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/builder/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/builder/BuilderCommon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/builder/BuilderNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/builder/multithreaded/ConcurrencyDependencyGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/builder/multithreaded/MultiThreadedBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/builder/multithreaded/ThreadOutputMuxer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/internal/builder/singlethreaded/SingleThreadedBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/mapping/DefaultLifecycleMapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/mapping/Lifecycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/mapping/LifecycleMapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/mapping/LifecycleMojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/lifecycle/mapping/LifecyclePhase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/model/plugin/DefaultLifecycleBindingsInjector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/monitor/event/EventDispatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/monitor/event/EventMonitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/BuildPluginManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/CacheUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/CompoundMojoExecutionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/CycleDetectedInPluginGraphException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/DebugConfigurationListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/DefaultBuildPluginManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/DefaultExtensionRealmCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginArtifactsCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginDescriptorCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginRealmCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/ExtensionRealmCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/InvalidPluginDescriptorException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/InvalidPluginException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/LegacySupport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/MavenPluginManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/MavenPluginValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/MojoExecution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/PluginArtifactsCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/PluginConfigurationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/PluginContainerException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/PluginDescriptorCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/PluginDescriptorParsingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/PluginExecutionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/PluginIncompatibleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/PluginLoaderException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/PluginManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/PluginManagerException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/PluginNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/PluginParameterException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/PluginParameterExpressionEvaluator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/PluginRealmCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/PluginResolutionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultLegacySupport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultMavenPluginManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultPluginDependenciesResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultPluginManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/internal/PlexusUtilsInjector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/internal/PluginDependenciesResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/internal/PluginDependencyResolutionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/internal/ValidatingConfigurationListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/internal/WagonExcluder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/prefix/DefaultPluginPrefixRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/prefix/NoPluginFoundForPrefixException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/prefix/PluginPrefixRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/prefix/PluginPrefixResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/prefix/PluginPrefixResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/prefix/internal/DefaultPluginPrefixResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/prefix/internal/DefaultPluginPrefixResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/version/DefaultPluginVersionRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/version/PluginVersionNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/version/PluginVersionRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/version/PluginVersionResolutionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/version/PluginVersionResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/version/PluginVersionResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/version/internal/DefaultPluginVersionResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/plugin/version/internal/DefaultPluginVersionResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/DefaultDependencyResolutionRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/DefaultDependencyResolutionResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/DefaultMavenProjectHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/DefaultModelBuildingListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuildingHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuildingRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuildingResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/DefaultProjectDependenciesResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/DefaultProjectRealmCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/DependencyResolutionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/DependencyResolutionRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/DependencyResolutionResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/DuplicateArtifactAttachmentException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/DuplicateProjectException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/ExtensionDescriptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/ExtensionDescriptorBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/InvalidProjectVersionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/MavenProject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/MavenProjectHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/ProjectBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/ProjectBuildingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/ProjectBuildingHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/ProjectBuildingRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/ProjectBuildingResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/ProjectDependenciesResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/ProjectModelResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/ProjectRealmCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/ProjectSorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/ReactorModelCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/ReactorModelPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/RepositorySessionDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/artifact/ActiveProjectArtifact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/artifact/ArtifactWithDependencies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/artifact/AttachedArtifact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/artifact/DefaultMavenMetadataCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/artifact/DefaultMetadataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/artifact/DefaultProjectArtifactsCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/artifact/InvalidDependencyVersionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/artifact/MavenMetadataCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/artifact/PluginArtifact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/artifact/ProjectArtifact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/artifact/ProjectArtifactMetadata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/artifact/ProjectArtifactsCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/project/path/PathTranslator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/properties/internal/EnvironmentUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/properties/internal/SystemProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/repository/ArtifactDoesNotExistException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/repository/ArtifactTransferEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/repository/ArtifactTransferFailedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/repository/ArtifactTransferListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/repository/ArtifactTransferResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/repository/DelegatingLocalArtifactRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/repository/LocalArtifactRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/repository/LocalRepositoryNotAccessibleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/repository/RepositorySystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/repository/legacy/metadata/AbstractArtifactMetadata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/repository/legacy/metadata/ArtifactMetadataRetrievalException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/repository/legacy/metadata/ArtifactMetadataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/repository/legacy/metadata/DefaultMetadataResolutionRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/repository/legacy/metadata/MetadataResolutionRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/repository/legacy/metadata/ResolutionGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/rtinfo/RuntimeInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/rtinfo/internal/DefaultRuntimeInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/session/scope/internal/SessionScope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/session/scope/internal/SessionScopeModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/settings/DefaultMavenSettingsBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/settings/MavenSettingsBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/settings/SettingsConfigurationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/settings/SettingsUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/DefaultToolchain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/DefaultToolchainManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/DefaultToolchainManagerPrivate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/DefaultToolchainsBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/MisconfiguredToolchainException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/RequirementMatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/RequirementMatcherFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/Toolchain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/ToolchainFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/ToolchainManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/ToolchainManagerPrivate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/ToolchainPrivate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/ToolchainsBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/building/DefaultToolchainsBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/building/DefaultToolchainsBuildingRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/building/DefaultToolchainsBuildingResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/building/ToolchainsBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/building/ToolchainsBuildingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/building/ToolchainsBuildingRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/building/ToolchainsBuildingResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/io/DefaultToolchainsReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/io/ToolchainsParseException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/io/ToolchainsReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/java/DefaultJavaToolChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/java/JavaToolchain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/java/JavaToolchainFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/java/JavaToolchainImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/java/org/apache/maven/toolchain/merge/MavenToolchainMerger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/mdo/extension.mdo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/mdo/toolchains.mdo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/resources/META-INF/maven/extension.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/resources/META-INF/plexus/artifact-handlers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/resources/META-INF/plexus/components.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/resources/META-INF/plexus/default-bindings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/resources/org/apache/maven/messages/build.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/main/resources/org/apache/maven/project/standalone.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/site/apt/artifact-handlers.apt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/site/apt/configuration-management.apt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/site/apt/core-extensions.apt.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/site/apt/default-bindings.apt.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/site/apt/getting-to-container-configured-mojos.apt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/site/apt/index.apt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/site/apt/inheritance.apt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/site/apt/lifecycles.apt.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/site/apt/offline-mode.apt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/site/apt/plugin-execution-isolation.apt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/site/resources/design/2.1-lifecycle-refactor-class-diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/site/resources/design/2.1-lifecycle-refactor-sequence-diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/site/resources/design/2.1-lifecycle-refactor.graffle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/site/site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/AbstractCoreMavenComponentTestCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/DefaultMavenTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/MavenLifecycleParticipantTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/MavenTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/ProjectDependenciesResolverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/artifact/handler/ArtifactHandlerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/configuration/DefaultBeanConfiguratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/exception/DefaultExceptionHandlerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/execution/DefaultMavenExecutionRequestPopulatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/execution/DefaultMavenExecutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/execution/scope/internal/MojoExecutionScopeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/graph/DefaultProjectDependencyGraphTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/DefaultLifecyclesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/DelegatingMojoExecutionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/DelegatingProjectExecutionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/EmptyLifecyclePluginAnalyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/LifecycleExecutorSubModulesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/LifecycleExecutorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/MavenExecutionPlanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/MojoExecutionXPathContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/BuildListCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/BuilderCommonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/ConcurrencyDependencyGraphTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/LifecycleDependencyResolverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/LifecycleExecutionPlanCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/LifecycleTaskSegmentCalculatorImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/PhaseRecorderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/ProjectBuildListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/builder/multithreaded/ConcurrencyDependencyGraphTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/builder/multithreaded/ThreadOutputMuxerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/stub/AboutTheStubs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/stub/BuildPluginManagerStub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/stub/CompletionServiceStub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/stub/DefaultLifecyclesStub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/stub/ExecutionEventCatapultStub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/stub/LifeCyclePluginAnalyzerStub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/stub/LifecycleExecutionPlanCalculatorStub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/stub/LifecycleTaskSegmentCalculatorStub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/stub/LoggerStub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/stub/MojoExecutorStub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/stub/PluginPrefixResolverStub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/stub/PluginVersionResolverStub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/stub/ProjectDependenciesResolverStub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/stub/ProjectDependencyGraphStub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/internal/stub/ProjectDependencyGraphStubTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/lifecycle/mapping/LifecyclePhaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/plugin/PluginManagerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/plugin/PluginParameterExceptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/plugin/PluginParameterExpressionEvaluatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/plugin/internal/DefaultLegacySupportTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/project/AbstractMavenProjectTestCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/project/DefaultMavenProjectBuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/project/EmptyLifecycleExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/project/EmptyProjectBuildingHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/project/ExtensionDescriptorBuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/project/LegacyLocalRepositoryManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/project/MavenProjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/project/PomConstructionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/project/ProjectBuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/project/ProjectModelResolverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/project/ProjectSorterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/project/TestMetadataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/project/artifact/DefaultMavenMetadataCacheTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/project/artifact/MavenMetadataSourceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/project/canonical/CanonicalProjectBuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/project/harness/PomTestWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/project/harness/Xpp3DomAttributeIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/project/harness/Xpp3DomAttributePointer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/project/harness/Xpp3DomNodeIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/project/harness/Xpp3DomNodePointer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/project/harness/Xpp3DomPointerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/repository/LegacyRepositoryLayout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/repository/TestArtifactHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/repository/TestRepositoryConnector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/repository/TestRepositoryConnectorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/repository/TestRepositorySystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/rtinfo/internal/DefaultRuntimeInformationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/settings/PomConstructionWithSettingsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/settings/SettingsUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/toolchain/DefaultToolchainManagerPrivateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/toolchain/DefaultToolchainManagerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/toolchain/DefaultToolchainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/toolchain/RequirementMatcherFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/toolchain/building/DefaultToolchainsBuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/toolchain/building/ToolchainsBuildingExceptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/java/org/apache/maven/toolchain/merge/MavenToolchainMergerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/default-maven/cyclic-reference/module-a/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/default-maven/cyclic-reference/module-b/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/default-maven/cyclic-reference/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/lifecycle-dependency-resolver/lib/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/lifecycle-dependency-resolver/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/lifecycle-dependency-resolver/war/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/lifecycle-executor/mojo-configuration/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/lifecycle-executor/project-basic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/lifecycle-executor/project-with-additional-lifecycle-elements/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/lifecycle-executor/project-with-inheritance/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/lifecycle-executor/project-with-multiple-executions/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/lifecycle-executor/project-with-multiple-executions/src/main/mdo/remote-resources.mdo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/lifecycle-executor/project-with-multiple-executions/src/main/mdo/supplemental-model.mdo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/lifecycle-executor/project-with-plugin-level-configuration-only/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/lifecycle-listener/lifecycle-listener-dependency-injection/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/lifecycle-listener/lifecycle-participant-reactor-dependency-injection/module-a/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/lifecycle-listener/lifecycle-participant-reactor-dependency-injection/module-b/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/lifecycle-listener/lifecycle-participant-reactor-dependency-injection/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/plugin-manager/mng-5003-plugin-realm-cache/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/plugin-manager/project-contributing-system-scope-plugin-dep/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/plugin-manager/project-with-build-extensions-plugin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/plugin-manager/project-with-inheritance/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/plugin-manager/project-with-plugin-classpath-ordering/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/plugin-manager/project-with-plugin-classpath-ordering/sub/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/plugin-manager/project-with-plugin-classpath-ordering/sub/settings-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/project-builder/it0063/jdk/jre/placeholder.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/project-builder/it0063/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/project-builder/mng-3023/consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/project-builder/mng-3023/dependency/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/project-builder/mng-3023/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/project-dependencies-resolver/it0063/jdk/jre/placeholder.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/project-dependencies-resolver/it0063/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/projects/project-dependencies-resolver/project-with-exclusions/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/canonical-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/dependencyManagement-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/distributionManagement-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/MavenLifecycleParticipantTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/extension/test-extension-repo/junit/junit/3.8.1/junit-3.8.1.jar.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/extension/test-extension-repo/junit/junit/3.8.1/junit-3.8.1.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/extension/test-extension-repo/junit/junit/3.8.1/junit-3.8.1.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/extension/test-extension-repo/junit/junit/3.8.1/junit-3.8.1.pom.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/extension/test-extension-repo/junit/junit/3.8.1/junit-3.8.1.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/extension/test-extension-repo/org/apache/apache/3/apache-3.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/extension/test-extension-repo/org/apache/apache/3/apache-3.pom.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/extension/test-extension-repo/org/apache/apache/3/apache-3.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/extension/test-extension-repo/org/apache/maven/maven-parent/4/maven-parent-4.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/extension/test-extension-repo/org/apache/maven/maven-parent/5/maven-parent-5.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/extension/test-extension-repo/org/codehaus/plexus/plexus/1.0.10/plexus-1.0.10.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/extension/test-extension-repo/org/codehaus/plexus/plexus/1.0.11/plexus-1.0.11.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/extension/test-extension-repo/org/codehaus/plexus/plexus/1.0.4/plexus-1.0.4.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/extension/test-extension-repo/org/codehaus/plexus/plexus/1.0.4/plexus-1.0.4.pom.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/extension/test-extension-repo/org/codehaus/plexus/plexus/1.0.8/plexus-1.0.8.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/extension/test-extension-repo/org/codehaus/plexus/plexus/1.0.8/plexus-1.0.8.pom.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/extension/test-extension-repo/org/codehaus/plexus/plexus/1.0.9/plexus-1.0.9.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/extension/test-extension-repo/org/codehaus/plexus/plexus/1.0.9/plexus-1.0.9.pom.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/extension/test-extension-repo/repo-marker.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/lifecycle/LifecycleExecutorTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/plugin/PluginManagerTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/project/AbstractMavenProjectTestCase.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/project/PomConstructionTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/project/workspace/buildFromFile/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/project/workspace/buildFromRepo/tests/project-caching/1/project-caching-1.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/project/workspace/buildFromRepo/tests/project-caching/maven-metadata-local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/project/workspace/buildModelLineage/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/project/workspace/resolveParentPom/childAndParent/child/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/project/workspace/resolveParentPom/childAndParent/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/project/workspace/resolveParentPom/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/org/apache/maven/settings/PomConstructionWithSettingsTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/maven-core/src/test/resources/withActiveByDefaultProfile-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/src/site/resources/images/maven-deps.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/src/site/site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/src/site/xdoc/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries/maven-master/src/site/xdoc/maven-deps.odg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto #3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tec/datos1/JarAnalyze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tec/datos1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tec/datos1/dependencias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tec/datos1/pathChooser1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tec/datos1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tec/datos1/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -594,13 +47,18 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/tec/datos1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+            <state relative-caret-position="323">
+              <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pathChooser1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tec/datos1/pathChooser1.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -652,9 +110,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="774" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="753" />
+    <option name="width" value="775" />
     <option name="height" value="907" />
   </component>
   <component name="ProjectView">
@@ -662,6 +120,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -685,8 +145,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -703,6 +161,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tec.datos1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\leahycarlos21\Documents\Algoritmos y Estructura de Datos I\Proyectos\Proyecto #3" />
     </key>
@@ -764,15 +225,16 @@
       <workItem from="1529196775460" duration="4477000" />
       <workItem from="1529282067201" duration="5145000" />
       <workItem from="1529294937454" duration="11827000" />
-      <workItem from="1529307035365" duration="426000" />
+      <workItem from="1529307035365" duration="642000" />
+      <workItem from="1529353644968" duration="396000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43520000" />
+    <option name="totallyTimeSpent" value="44132000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1537" height="916" extended-state="6" />
+    <frame x="753" y="0" width="775" height="907" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
@@ -793,10 +255,10 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41192052" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41152814" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32980132" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13270143" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33006993" />
       <window_info id="Learn" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -815,6 +277,37 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/tec/datos1/JarAnalyze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1084#1085#0" expanded="true" />
+            <element signature="e#1118#1119#0" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tec/datos1/dependencias.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tec/datos1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/tec/datos1/JarAnalyze.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -942,10 +435,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tec/datos1/pathChooser1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/tec/datos1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+        <state relative-caret-position="323">
+          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -969,7 +465,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1004,7 +500,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>Proyecto #3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1016,7 +512,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>apache commons lang</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
